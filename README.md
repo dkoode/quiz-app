@@ -9,6 +9,10 @@ This project was created using next.js v14 and typescript. It was designed and c
 First, run the development server:
 
 ```bash
+npm install
+```
+
+```bash
 npm run dev
 # or
 yarn dev
