@@ -1,5 +1,7 @@
 # Quiz App - Case
 
+![image](https://github.com/user-attachments/assets/eaab93db-a90e-4dc3-9dc4-c183060d2703)
+
 This project was created using next.js v14 and typescript. It was designed and compiled into code for case-study work.
 
 ## Development
